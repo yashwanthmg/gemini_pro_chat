@@ -1,0 +1,22 @@
+{
+  "name": "geminichat",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Y@$#",
+  "license": "ISC",
+  "dependencies": {
+    "@langchain/google-genai": "^0.0.5",
+    "axios": "^1.6.2",
+    "dotenv": "^16.3.1",
+    "html2canvas": "^1.4.1",
+    "http-proxy-middleware": "^2.0.6",
+    "langchain": "^0.0.210",
+    "winston": "^3.11.0"
+  }
+}
