@@ -3,7 +3,7 @@ Home@LENOVO-PC MINGW64 ~/Downloads/github/Loki (master)
 $ node backend.js
 
 Enter system input:
-
+```
 Enter user input: This investigation demonstrates that GitHub Copilot can quote
 a body of code verbatim, yet it rarely does so, and when it does, it mostly quot
 es code that everybody quotes, typically at the beginning of a file, as if to br
@@ -19,6 +19,7 @@ er attribution, or decide against using that code altogether. This duplication s
 earch is not yet integrated into the technical preview, but we plan to do so. We
  will both continue to work on decreasing rates of recitation, as well as making
  its detection more precise.
+```
 ```
 Model Output: 
 The article presents the results of the analysis of the Russian Federation’s sci
