@@ -31,7 +31,7 @@ const urlPrefix = 'https://api.digitalocean.com/v2';
 
   
 
-// Tell express were using ejs for views 
+// Tell express we're using ejs for views 
 
 app.set('view engine', 'ejs'); 
 
@@ -1183,7 +1183,7 @@ System Input:
 
 User Input:  
 
-```
+```bash
 Model Output: import { ObjectId } from 'mongodb'; 
 
 import { Field, ID, ObjectType } from 'type-graphql'; 
