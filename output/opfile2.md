@@ -18,6 +18,8 @@ er attribution, or decide against using that code altogether. This duplication s
 earch is not yet integrated into the technical preview, but we plan to do so. We
  will both continue to work on decreasing rates of recitation, as well as making
  its detection more precise.
+```
+Model Output: 
 The article presents the results of the analysis of the Russian Federation’s sci
 entific potential for 2016–2020. The author chose these years for analysis becau
 se the President of the Russian Federation has named 2016 the “Year of Science.”
@@ -71,11 +73,10 @@ ng, 2018, 127 p. DOI: https://doi.org/10.1787/9789264071954-en
 onal Research University Higher School of Economics]. Moskva: HSE University, 20
 20, 196 s. (In Russ.) URL: https://www.hse.ru/data/2020/01/24/1248565017/HSE-rep
 ort_2020.pdf
-
+```
 Home@LENOVO-PC MINGW64 ~/Downloads/github/Loki (master)
 $ node backend.js
 Enter system input:
-Enter user input: The article presents the results of the analysis of the Russia
 Enter user input: The article presents the results of the analysis of the Russia
 n Federation’s scientific potential for 2016–2020. The author chose these years
 Enter user input: The article presents the results of the analysis of the Russia
