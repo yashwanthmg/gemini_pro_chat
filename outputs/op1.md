@@ -2,7 +2,7 @@ System Input:
 
 User Input:  
 
-```bash
+```
 Model Output: const express = require('express'); 
 
 const bodyParser = require('body-parser'); 
