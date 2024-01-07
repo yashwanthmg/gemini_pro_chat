@@ -1,4 +1,8 @@
-System Input: 
+
+
+___
+
+System Input:
 
 User Input:  
 
@@ -270,9 +274,9 @@ app.get('/droplet/delete/:dropletId', (req, res) => {
 app.listen(port); 
 
 ```  
----
+___
 
-System Input: 
+System Input:
 
 User Input:  
 
@@ -1098,6 +1102,13 @@ public class modify_image extends AppCompatActivity {
                 0 
 ```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: After their impressive performance against L.A. Galaxy, Chivas USA will look to continue their recent good form when they visit Montreal Impact at Saputo Stadium on Saturday. Chivas are unbeaten in their past three games, including a 2-2 draw on the road against their Western Conference rivals San Jose Earthquakes. 
 
   
@@ -1164,6 +1175,15 @@ This is a tough game to call, as both teams have been in good form recently. How
 
 <strong>Montreal Impact 1-2 Chivas USA</strong> 
 
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: import { ObjectId } from 'mongodb'; 
 
 import { Field, ID, ObjectType } from 'type-graphql'; 
@@ -1198,7 +1218,15 @@ export class Vote {
 
 } 
 
-  
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```
 
 Model Output: Con la mira en el futuro y para mejorar la movilidad, el servicio y seguridad vial, como también la accesibilidad universal a los distintos centros de la ciudad, pasajeros y conductores, el Municipio de Necochea abrió la licitación pública para la renovación del sistema de Transporte Urbano de Pasajeros. 
 
@@ -1241,7 +1269,15 @@ El pliego también indica que el servicio deberá prestarse de lunes a domingo, 
   
 
 Dentro de los requisitos establecidos, el pliego sostiene que todos los ómnibus deben contar con sistema de geo-referenciación (GPS), lector y validador de tarjetas magnéticas (pagos electrónicos) e información visual y sonora en tiempo real de los recorridos y paradas cumplidas. También, las unidades deberán estar equipadas con sistema de climatización, suspensión neumática, cámaras de seguridad en el interior, rampa para ascenso y descenso de personas con discapacidades motrices, micrófono y altoparlantes. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: 那里逐渐摇晃起来，并持续了好几分钟。然后房子突然间左右摇晃，像被两个大力士抓起来摇晃一样。我拼命地抓住床沿，不仅是为了阻止自己掉下去，更重要的是为了让自己的头不要撞到床头板上。房子发生了严重的扭曲，以至于站在地板上不费任何力气就可以碰到天花板。” 
 
   
@@ -1404,6 +1440,15 @@ Model Output: <h1>船戸与一</h1>
 
 * 『長野県美術年鑑 2005-2006年版』 長野県美術年鑑編集委員会 長野市 2006年9月30日 
 
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: HEGEROVÁ, Vladimíra. <i>Diakritická znamienka v slovenčine</i> [online]. Brno, 2007 [cit. 2022-12-29]. Dostupné z: https://is.muni.cz/th/99t46/. Bakalářská práce. Masarykova univerzita, Filozofická fakulta. Vedoucí práce František ČERMÁK. 
 
 HEGEROVÁ, Vladimíra. \textit{Diakritická znamienka v slovenčine} [online]. Brno, 2007 [cit. 2022-12-29]. Dostupné z: https://is.muni.cz/th/99t46/. Bakalářská práce. Masarykova univerzita, Filozofická fakulta. Vedoucí práce František ČERMÁK. 
@@ -1415,6 +1460,17 @@ HEGEROVÁ, Vladimíra. <i>Diakritická znamienka v slovenčine</i> [online]. Brn
 @misc{Hegerova2007thesis, AUTHOR = {Hegerová, Vladimíra}, TITLE = {Diakritická znamienka v slovenčine}, YEAR = {2007}, TYPE = {Bakalářská práce}, INSTITUTION = {Masarykova univerzita, Filozofická fakulta}, LOCATION = {Brno}, SUPERVISOR = {František Čermák}, URL = {https://is.muni.cz/th/99t46/}, } 
 
 @misc{Hegerova2007thesis, AUTHOR = {Hegerová, Vladimíra}, TITLE = {Diakritická znamienka v slovenčine}, YEAR = {2007}, TYPE = {Bakalářská práce}, INSTITUTION = {Masarykova univerzita, Filozofická fakulta}, LOCATION = {Brno}, SUPERVISOR = {František Čermák}, URL = {https://is.muni.cz/th/99t46/}, } 
+
+
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```bash
 
 Model Output: /* 
 
@@ -1958,6 +2014,16 @@ static bool parse_filter_value_any(private_filter_rule_t *this,
 
 			if (asn1_parse_sequence(&bytes_parser, node->len 
 
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```
+
 Model Output: <p id="0" uid="0">SGHub is hiring! 
 
   
@@ -1984,11 +2050,15 @@ We look forward to hearing from you!</p>
 
 <blockquote id="2" pid="0" uid="0">We appreciate the offer! Unfortunately, this is a paid position, so we can't accept volunteer help, but we hope you'll check out our community website and Facebook group and interact with us from afar! Thank you for your support!</blockquote> 
 
-  
+```
 
-Enter user input: Les grands modèles linguistiques ne sont-ils pas incroyables? 
+___
 
-  
+System Input:
+
+User Input:  
+
+```
 
 Model Output: [multimodal]<start_of_image>Struggling for a novel Valentine’s gift? Take inspiration from the heart-shaped gems that adorn this Cartier Love bracelet. It’s a classic for a reason, and something you’ll cherish long after the 14th. 
 
@@ -2065,6 +2135,15 @@ Here are some more ideas for Valentine’s Day gifts for the woman in your life:
   
 
 No matter what you choose, make sure it comes from the heart. 
+```
+
+___
+
+System Input:
+
+User Input:  
+
+```
 
 Model Output: Sure, here is the translation of the prompt: 
 
@@ -2091,11 +2170,35 @@ Translate the following text from English to Spanish:
   
 
 I hope this is helpful! Let me know if you have any other questions. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: Les grands modèles de langage, n’est-ce pas incroyable ? 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: Large language models are not so g 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: Oui, les grands modèles de langage (LLM) sont tout simplement incroyables. Ils ont fait des progrès incroyables au cours des dernières années et sont désormais capables d'effectuer un large éventail de tâches, notamment : 
 
   
@@ -2133,7 +2236,15 @@ Voici quelques exemples concrets de la façon dont les LLM sont utilisés dans l
   
 
 Ce ne sont là que quelques exemples de la façon dont les LLM sont utilisés dans le monde réel. À mesure qu'ils continueront à apprendre et à s'améliorer, ils auront un impact croissant sur notre façon de vivre et de travailler. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: Liverpool are reportedly sizing up a move for Sheffield United midfielder Sander Berge. 
 
   
@@ -2159,7 +2270,15 @@ Berge has made 88 appearances for Sheffield United, scoring seven goals and prov
   
 
 The midfielder is contracted to the Blades until June 2024, but it is understood that he is open to a move away from Bramall Lane this summer. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: <h1>Modern Marxism</h1> 
 
   
@@ -2297,7 +2416,15 @@ Modern Marxism has also been influential in the development of social movements,
   
 
 Modern Marxism is a complex and diverse body of thought, but it is united by a common commitment to understanding and changing the world. Modern Marxists believe that capitalism is a 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: import React, { Component } from 'react'; 
 
 import { connect } from 'react-redux'; 
@@ -2369,8 +2496,14 @@ const mapDispatchToProps = (dispatch) => {
   
 
 export default connect(mapStateToProps, mapDispatchToProps)(CampusContainer); 
+```
+___
 
-  
+System Input:
+
+User Input:  
+
+```
 
 Model Output: [multimodal]SOUTH CHINA SEA - The Arleigh Burke-class guided-missile destroyer USS Benfold (DDG 65) conducted a freedom of navigation operation (FONOP) past the Paracel Islands in the South China Sea July 13. 
 
@@ -2505,9 +2638,15 @@ JPC: Thank you for your time, Professor Li.
   
 
 L: You're welcome. I hope this helps. 
+```
 
-Model Output: Joe Biden 
+___
 
+System Input:
+
+User Input:  
+
+```
 Model Output: It's time to change the way we think about organizations. 
 
   
@@ -2521,7 +2660,15 @@ Instead of Slavery offers a radical alternative to career slavery; the oppressio
   
 
 Kamerman's call for a worker-owned economy and transformative education gives readers a roadmap to an alternative future--a world where organizations serve people, not the other way around. Instead of Slavery is a bold and timely manifesto that charts a course for a more just and democratic society. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: <h2>Oh, so that's why!</h2> 
 
   
@@ -2581,7 +2728,15 @@ Well, it's all cleared up now!
   * cheers, 
 
   * Thank you. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```bash
 Model Output: package org.apache.catalina.connector; 
 
 import java.io.EOFException; 
@@ -2993,7 +3148,15 @@ public interface InputBuffer {
     public void parseTrailerFields ( Request request ) throws IOException, ServletException; 
 
     public String getTrailerHeader ( 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: <b>Muscat:</b> Bank Muscat, the leading financial services provider in the Sultanate of Oman, in line with its customer centric banking strategy, has launched an enhanced version of the online Al Mazyona monthly draw page. The new dedicated page makes it easy for customers to follow the monthly prize draw ceremony live and also provides a detailed prize-list to inform customers about any changes in the prize scheme. 
 
   
@@ -3019,7 +3182,15 @@ Al Mazyona is the longest-running savings scheme in Oman and has set a benchmark
   
 
 The new enhanced page is another example of Bank Muscat’s commitment to innovation and providing its customers with the best possible banking experience. 
+```
 
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: <b>Bronze Swordsman</b> is the first card you start with when installing the game. Upon tutorial completion, you unlock this card. 
 
   
@@ -3033,7 +3204,14 @@ Model Output: <b>Bronze Swordsman</b> is the first card you start with when inst
   
 
 Bronze Swordsman is a humanoid male wearing bronze armor and a helmet with a plume on the side of its head. He is holding a short sword and a medium-sized shield on his left arm, while his right arm is positioned as if he were swinging the sword. He has a proud expression on his face. 
+```
+___
 
+System Input:
+
+User Input:  
+
+```bash
 Model Output: supported). The value of the 'supported' field must be 'true' or 
 
          *          'false'. 
@@ -3527,7 +3705,14 @@ Model Output: supported). The value of the 'supported' field must be 'true' or
      * 
 
      * - `e2-custom- 
+```
+___
 
+System Input:
+
+User Input:  
+
+```
 Model Output: Feb. 19 marked the 15th anniversary of the signing of the Kyoto Protocol. The Kyoto Protocol is an international treaty that set binding obligations on industrialized countries to reduce their greenhouse gas emissions. The treaty was adopted on 11 December 1997 in Kyoto, Japan and entered into force on 16 February 2005. As of February 2016, 192 states have ratified the treaty. 
 
   
@@ -3557,45 +3742,14 @@ The Paris Agreement is a promising development in the global effort to combat cl
   
 
 The 15th anniversary of the Kyoto Protocol is an opportunity to reflect on the progress that has been made in the global effort to combat climate change. It is also an opportunity to renew our commitment to taking action to address this global challenge. 
+```
+___
 
-Model Output: Droupadi Murmu 
+System Input:
 
-Model Output: Narendra Modi 
+User Input:  
 
-Model Output: Narendra Modi 
-
-Model Output: Australia does not have a president. It is a constitutional monarchy with a parliamentary system of government, and the head of state is the British monarch, currently Queen Elizabeth II. The Queen is represented in Australia by the Governor-General, who is appointed by the Queen on the advice of the Australian Prime Minister. The current Governor-General is David Hurley. 
-
-  
-
-The head of government in Australia is the Prime Minister, who is the leader of the party or coalition that has the majority of seats in the House of Representatives. The Prime Minister is appointed by the Governor-General. The current Prime Minister is Anthony Albanese. 
-
-Model Output: Anthony Albanese is an Australian politician serving as the 31st and current prime minister of Australia and leader of the Australian Labor Party (ALP) since 2019. He has been the member of parliament (MP) for Grayndler since 1996. 
-
-  
-
-Albanese was born in Sydney, New South Wales, and grew up in public housing in Camperdown. He attended St Joseph's College, Hunters Hill, and the University of Sydney, where he studied economics and law. After graduating, he worked as a research officer for the Labor Council of New South Wales and as a policy adviser to state and federal Labor politicians. 
-
-  
-
-Albanese was elected to the House of Representatives at the 1996 federal election, representing the electorate of Grayndler in inner-western Sydney. He was appointed to the Shadow Ministry in 2001 and served in various portfolios, including transport, ageing, and infrastructure. In 2007, he was elected deputy leader of the ALP under Kevin Rudd. 
-
-  
-
-When Rudd resigned as prime minister in 2010, Albanese contested the leadership ballot but was defeated by Julia Gillard. He served as deputy prime minister and minister for infrastructure and transport in Gillard's government until she was deposed by Rudd in 2013. Albanese challenged Rudd for the leadership in 2013 but was again defeated. 
-
-  
-
-After Labor's defeat at the 2013 federal election, Albanese was elected unopposed as leader of the ALP. He led the party to defeat at the 2016 federal election but retained his seat in Grayndler. At the 2019 federal election, Labor won a surprise victory, and Albanese became prime minister. 
-
-  
-
-As prime minister, Albanese has focused on addressing climate change, improving relations with Australia's Pacific neighbors, and strengthening the economy. He has also committed to increasing Australia's defense spending in response to the rising threat from China. 
-
-  
-
-Albanese is married to Jodie Haydon, a former deputy premier of New South Wales. They have one son together. 
-
+```
 Model Output: [multimodal]<start_of_image>AG says federal suits clog courts 
 
   
@@ -3670,7 +3824,6 @@ G.T. Garrett
 
 Metairie 
 
-  
 
 <start_of_image> (reader submitted) 
 
@@ -3698,7 +3851,7 @@ For more information, contact the Office of Homeland Security and Emergency Prep
 
 The office is located at 2000 Tulane Ave. 
 
-  
+ 
 
 Celebrate library 
 
@@ -3722,6 +3875,14 @@ Proceeds benefit the library system.
 
 For more information, contact James Singletary at (504) 596-2598 or president@friendsnola.org. 
 
+```
+___
+
+System Input:
+
+User Input:  
+
+```
 Model Output: Я хотел бы освободить вас от необходимости постоянно держать в руках смартфон, постоянно смотреть на экран, беспокоиться о том, помните ли вы все, что вам нужно сделать. Сделайте глубокий вдох и расслабьтесь – теперь у вас есть свой личный секретарь, который всегда рядом с вами. 
 
   
@@ -3768,4 +3929,4 @@ Model Output: Я хотел бы освободить вас от необход
 
 Попробуйте меня сейчас и убедитесь сами! 
 
- 
+``` 
