@@ -27,7 +27,7 @@ const urlPrefix = 'https://api.digitalocean.com/v2';
 
   
 
-// Tell express we're using ejs for views 
+// Tell express were using ejs for views 
 
 app.set('view engine', 'ejs'); 
 
