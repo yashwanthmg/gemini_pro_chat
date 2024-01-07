@@ -270,8 +270,7 @@ app.get('/droplet/delete/:dropletId', (req, res) => {
 app.listen(port); 
 
 ```  
-
- 
+---
 
 System Input: 
 
@@ -340,6 +339,7 @@ Model Output: <h1> 孕妇 能 吃 中药 吗 </h1>
 
   
 ```
+___
 
 System Input:
 
@@ -413,6 +413,7 @@ Here are some additional tips for using the "Advanced Meshing" option:
 I hope this helps! Let me know if you have any other questions. 
 
 ```
+***
 
 System Input: 
 
