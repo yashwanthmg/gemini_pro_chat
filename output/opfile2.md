@@ -3,6 +3,7 @@ Home@LENOVO-PC MINGW64 ~/Downloads/github/Loki (master)
 $ node backend.js
 
 Enter system input:
+
 Enter user input: This investigation demonstrates that GitHub Copilot can quote
 a body of code verbatim, yet it rarely does so, and when it does, it mostly quot
 es code that everybody quotes, typically at the beginning of a file, as if to br
